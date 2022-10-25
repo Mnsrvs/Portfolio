@@ -570,3 +570,35 @@ form textarea:focus {
     text-align: center;
   }
 }
+
+@media (max-width: 280px) {
+  .hero-text,
+  .work-text {
+    font-size: 14px;
+  }
+
+  .hero-text h1,
+  .about-title,
+  .work-title,
+  .skills-title,
+  .contact-title {
+    font-size: 25px;
+  }
+
+  .hero-logo i,
+  .about-logo i {
+    font-size: 150px;
+  }
+
+  .contact-details p {
+    font-size: 10px;
+  }
+
+  .contact-details p i {
+    font-size: 18px;
+  }
+  
+  .socials a {
+    font-size: 25px;
+  }
+}
