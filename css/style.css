@@ -414,6 +414,12 @@ form textarea:focus {
 }
 
 @media (max-width: 600px) {
+  .about-container,
+  .work-container,
+  .contact-container {
+    scroll-margin: 160px 0;
+  }
+
   nav ul li a {
     font-size: 18px;
   }
