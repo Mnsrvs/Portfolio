@@ -596,6 +596,10 @@ form textarea:focus {
     font-size: 150px;
   }
 
+  .card img {
+    width: 180px;
+  } 
+
   .contact-details p {
     font-size: 10px;
   }
