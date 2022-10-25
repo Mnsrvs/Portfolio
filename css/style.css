@@ -335,7 +335,8 @@ nav ul li a {
 }
 
 .socials a:hover {
-  transform: scale(1.2);
+  color: #e25d42;
+  transform: scale(1.1);
 }
 
 .contact-form form {
